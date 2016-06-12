@@ -1,0 +1,3 @@
+[submodule "plugin/sampler"]
+	path = plugin/sampler
+	url = https://github.com/ldionne/reveal-sampler.git
